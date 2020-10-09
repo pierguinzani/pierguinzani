@@ -27,9 +27,6 @@ I'm passionate about learning and designing new solutions. I am always improving
   <code><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" width="40" height="40"/></code>&nbsp;
    </code>&nbsp;
   <code><img src="https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png" alt="Flask" width="40" height="40"/></code>&nbsp;
-    </code>&nbsp;
-  <code><img src="https://avatars0.githubusercontent.com/u/7658037?v=3&s=200" alt="Swagger" width="40" height="40"/></code>&nbsp;
-   </code>&nbsp;
+    
    </p>
-   
    
