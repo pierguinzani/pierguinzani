@@ -17,7 +17,7 @@ I'm passionate about learning and designing new solutions. I am always improving
   </code>&nbsp;
   <code><img src="https://www.ict.social/images/5728/mdb.png" alt="MongoDB" width="40" height="40" /></code>&nbsp;
 <code><img src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e1f9804b36ff7196d4b72a0_logo-react-native-tech.png" alt="React-Native" width="60" height="40" /></code>&nbsp;
-    <code><img src="https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg" alt="Node.js" width="40" height="40"/></code>&nbsp;
+    <code><img src="http://abneroliveira.eti.br/wp-content/uploads/2020/01/nodejs-logo-png-node-js-development-296.png" alt="Node.js" width="40" height="40"/></code>&nbsp;
       <code><img src="https://user-images.githubusercontent.com/51785898/91358293-f0581000-e7c8-11ea-95f0-f1a8e29ee9d1.png" alt="Testes" width="40" height="40"/></code>&nbsp;
       <code><img src="https://user-images.githubusercontent.com/51785898/91358318-ff3ec280-e7c8-11ea-9d80-c8e249594078.png" alt="Postgres" width="40" height="40"/></code>&nbsp;
       <code><img src="https://user-images.githubusercontent.com/51785898/91358353-0cf44800-e7c9-11ea-9a54-0a988aa2837c.png" alt="Github" width="40" height="40"/></code>&nbsp;
