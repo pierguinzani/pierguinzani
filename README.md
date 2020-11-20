@@ -2,7 +2,8 @@
 
 ### Hello, I'm Pier 👋
 
-I'm a software and research developer with background in different areas of computer engineering and software development. Currently working as a software engineer for the Telessaúde Maranhão (Telehealth Center of the University Hospital of the Federal University of Maranhão), a South American software and consultancy engineering company specialized in healthcare systems that has been responsible for the promotion of Telehealth activities and distance education of HU-UFMA. In the last few years, I have worked hard on the creation of applications focused on the improvement of social matters and maintainable code. 
+I'm a software and research developer with background in different areas of computer engineering and software development. Currently working as an IT Analyst at Vale, which is a Brazilian multinational mining company and one of the largest logistics operators in the country. In the last few years, I have worked hard on the creation of applications focused on the improvement of social matters and maintainable code.
+
 I'm passionate about learning and designing new solutions. I am always improving my abilities in technologies that make people's lives easier. At present living in São Luís - Maranhão - Brazil.
  
 
