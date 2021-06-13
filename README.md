@@ -21,6 +21,7 @@ I'm passionate about learning and designing new solutions. I am always improving
   <code><img src="https://user-images.githubusercontent.com/51785898/91358293-f0581000-e7c8-11ea-95f0-f1a8e29ee9d1.png" alt="Testes" width="38" height="38"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91358318-ff3ec280-e7c8-11ea-9d80-c8e249594078.png" alt="Postgres" width="38" height="38"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91358353-0cf44800-e7c9-11ea-9a54-0a988aa2837c.png" alt="Github" width="38" height="38"/></code>&nbsp;
+  <code><img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="Gitlab" width="38" height="38"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91358419-31502480-e7c9-11ea-9bb8-5124117e9a75.png" alt="AWS"width="38" height="38"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91358426-3319e800-e7c9-11ea-9df0-b5a207cecfce.png" alt="Typescript" width="38" height="38"/></code>&nbsp;
   <code><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" width="38" height="38"/></code>&nbsp;
