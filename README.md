@@ -28,7 +28,6 @@ I'm passionate about learning and designing new solutions. I am always improving
   <code><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" width="40" height="40"/></code>&nbsp;
    </code>&nbsp;
   <code><img src="https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png" alt="Flask" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://img.icons8.com/ios/452/typescript.png" alt="Flask" width="40" height="40"/></code>&nbsp;
  </p>
    
    ![Snake animation](https://github.com/pierguinzani/Nice-Project/blob/main/github-contribution-grid-snake.svg)
