@@ -1,13 +1,14 @@
 <img align="right" src="https://user-images.githubusercontent.com/49373874/95536332-2fc96d00-09c1-11eb-82a0-382d95c9905d.png" width="300"/>
 
 ### Hello, I'm Pier 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Pier%20Guinzani-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierguinzani/)](https://www.linkedin.com/in/pierguinzani/)
 
 I'm a software and research developer with background in different areas of computer engineering and software development. In the last few years, I have worked hard on the creation of applications focused on the improvement of social matters and maintainable code.
 
 I'm passionate about learning and designing new solutions. I am always improving my abilities in technologies that make people's lives easier. At present living in São Luís - Maranhão - Brazil.
  
 
-- 📫  How to reach me: pierguinzani@gmail.com or LinkedIn [@pierguinzani](https://www.linkedin.com/in/pierguinzani/).
+- 📫  How to reach me: pierguinzani@gmail.com
 - 🐈♟️ Fun facts: I like cats and in my spare time I like to play chess
  
  **Technologies:**
@@ -28,5 +29,6 @@ I'm passionate about learning and designing new solutions. I am always improving
   <code><img src="https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png" alt="Flask" width="38" height="38"/></code>&nbsp;
   <code><img src="https://camo.githubusercontent.com/f85f882cb31eeaeee657ec955313015c30378e8f56c3dc2f06933b617a276cfd/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3734372f3739382f706e672d7472616e73706172656e742d6d7973716c2d6c6f676f2d6d7973716c2d64617461626173652d7765622d646576656c6f706d656e742d636f6d70757465722d736f6674776172652d646f6c7068696e2d6d6172696e652d6d616d6d616c2d616e696d616c732d746578742d7468756d626e61696c2e706e67" alt="Flask"width="38" height="38"/></code>&nbsp;
  </p>
+
+![Snake animation](https://raw.githubusercontent.com/fz6m/commit-snake/snk/snk.svg)
    
-   ![Snake animation](https://github.com/pierguinzani/Nice-Project/blob/main/github-contribution-grid-snake.svg)
